@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+  <h1>Toyoko Lab</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=A682F7&width=435&lines=Bioinformatics+for+;Climate+Change;World+Health;The+Future;Resilence+Crops+;All" alt="Typing SVG" />
+  </a>
+</div>
 
 <!--
 
