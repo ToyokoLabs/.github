@@ -10,6 +10,8 @@
 
 We build tools, pipelines, and cloud-based solutions for genomics, proteomics, and other biological data, combining modern software engineering, AI, and life science expertise. Our work ranges from custom bioinformatics pipelines and data platforms to AI agents and applications that help researchers and biotech teams turn biological data into actionable knowledge.
 
+Our Platform & AI Technology, <a href="https://www.dnallinux.com/">DNALinux</a>, is an open source project dedicated to making bioinformatics and computational biology more accessible, reproducible, and easier to use.
+
 <div align="center">
 <a href="https://www.toyoko.io/">🧬🚀 Get Started</a>
 </div>
