@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Toyoko Lab</h1>
+  <h1>Toyoko Bio</h1>
   
   <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=A682F7&width=435&lines=Bioinformatics+for+Climate+Change;Bioinformatics+for+World+Health;Bioinformatics+for+The+Future;Bioinformatics+for+Resilence+Crops+;Bioinformatics+for+All" alt="Typing SVG" /></a>
 </div>
